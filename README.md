@@ -1,1 +1,2 @@
-#### Check dist and find some console.log
+### Check dist and find some console.log
+### Try changing module settings -> 'umd', 'commonjs', ...
